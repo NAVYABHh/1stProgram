@@ -1,0 +1,23 @@
+import java.util.Scanner;
+class Demo
+{
+public static void main(String[]args)
+{
+int i=0;
+int num;
+Scanner sc=new Scanner(System.in);
+System.out.println("Enter the number")
+integer=sc.nextInt();
+for(; i<=num;i++)
+{
+if(num %2==0)
+{
+System.out.println("the number is even");
+}
+else
+{
+System.out.println("the num is odd");
+}
+}
+}
+}
